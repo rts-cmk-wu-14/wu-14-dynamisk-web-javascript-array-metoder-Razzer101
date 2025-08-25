@@ -62,3 +62,17 @@ Udskriv alle hundene i dogsArray i én lang streng.
 Udskriv strengen konsollen:
 
 console.log("Opgave 6", ...)
+
+## Opgave 7a
+Find ud af hvilket index "Mango" har i fruitsArray.
+
+Udskriv indexet i konsollen.
+
+console.log("Opgave 7a", ...)
+
+## Opgave 7b
+Find ud af hvilket index "Blåbær" har i fruitsArray.
+
+Udskriv indexet i konsollen.
+
+console.log("Opgave 7b", ...)
