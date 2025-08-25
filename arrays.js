@@ -21,4 +21,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     catsArray.includes("Salem") ? catAnswer2 = "Salem" : catAnswer2 = "Undefined"
     console.log("Opgave 4b", catAnswer2)
+
+    const newArray = numbersArray.map((elm) => elm * 3)
+    console.log("Opgave 5", newArray)
 })

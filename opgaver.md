@@ -46,3 +46,10 @@ Check om der i catsArray er en kat som hedder "Salem".
 Udskriv katten i konsollen hvis den findes og ellers "undefined".
 
 console.log("Opgave 4b", ...)
+
+## Opgave 5
+Med udgangspunkt i numbersArray, skal du oprette et nyt array, som indeholder alle tallene i arrayet ganget med 3.
+
+Udskriv det nye array i konsollen:
+
+console.log("Opgave 5", ...)
