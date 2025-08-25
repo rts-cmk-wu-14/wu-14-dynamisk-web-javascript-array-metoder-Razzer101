@@ -6,5 +6,9 @@ document.addEventListener("DOMContentLoaded", function () {
 
     let newNumbers = numbersArray.filter((elm)=> elm < 20)
     console.log("Opgave 1", newNumbers)
+
+    catsArray.push("Sniffles")
+    console.log("Opgave 2", catsArray)
+
 })
 

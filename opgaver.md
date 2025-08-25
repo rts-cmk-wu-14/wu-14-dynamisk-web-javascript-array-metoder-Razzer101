@@ -10,3 +10,11 @@ Med udgangspunkt i numbersArray, skal du oprette et nyt array, som indeholder al
 console.log("Opgave 1", newNumbers)
 //Så mister du ikke overblikket, mens du løser opgaverne.
 ```
+
+## Opgave 2
+
+Tilføj katten "Sniffles" til catsArray.
+
+Udskriv arrayet i konsollen.
+
+console.log("Opgave 2", ...)
