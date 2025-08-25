@@ -10,5 +10,9 @@ document.addEventListener("DOMContentLoaded", function () {
     catsArray.push("Sniffles")
     console.log("Opgave 2", catsArray)
 
-})
+    dogsArray.includes("Trixie") ? dogAnswer1 = "True" : dogAnswer1 = "False"
+    console.log("Opgave 3a", dogAnswer1)
 
+    dogsArray.includes("Baxter") ? dogAnswer2 = "True" : dogAnswer2 = "False"
+    console.log("Opgave 3b", dogAnswer2)
+})
