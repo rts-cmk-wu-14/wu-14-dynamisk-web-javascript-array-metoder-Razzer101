@@ -53,3 +53,12 @@ Med udgangspunkt i numbersArray, skal du oprette et nyt array, som indeholder al
 Udskriv det nye array i konsollen:
 
 console.log("Opgave 5", ...)
+
+## Opgave 6
+Udskriv alle hundene i dogsArray i én lang streng.
+
+(Sådan her: BarneyMollyBaxter...)
+
+Udskriv strengen konsollen:
+
+console.log("Opgave 6", ...)

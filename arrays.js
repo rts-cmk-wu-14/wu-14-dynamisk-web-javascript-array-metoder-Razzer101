@@ -24,4 +24,6 @@ document.addEventListener("DOMContentLoaded", function () {
 
     const newArray = numbersArray.map((elm) => elm * 3)
     console.log("Opgave 5", newArray)
+
+    console.log("Opgave 6", dogsArray.join("").toString())
 })
