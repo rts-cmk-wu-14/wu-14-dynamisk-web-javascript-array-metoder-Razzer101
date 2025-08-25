@@ -15,4 +15,10 @@ document.addEventListener("DOMContentLoaded", function () {
 
     dogsArray.includes("Baxter") ? dogAnswer2 = "True" : dogAnswer2 = "False"
     console.log("Opgave 3b", dogAnswer2)
+
+    catsArray.includes("Bagheera") ? catAnswer1 = "Bagheera" : catAnswer1 = "Undefined"
+    console.log("Opgave 4a", catAnswer1)
+
+    catsArray.includes("Salem") ? catAnswer2 = "Salem" : catAnswer2 = "Undefined"
+    console.log("Opgave 4b", catAnswer2)
 })
