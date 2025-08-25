@@ -12,3 +12,9 @@ console.log("Opgave 1", newNumbers)
 ```
 
 ## Opgave 2
+
+Tilføj katten "Sniffles" til catsArray.
+
+Udskriv arrayet i konsollen.
+
+console.log("Opgave 2", ...)
