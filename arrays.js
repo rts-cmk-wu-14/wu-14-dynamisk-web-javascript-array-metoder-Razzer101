@@ -22,11 +22,14 @@ document.addEventListener("DOMContentLoaded", function () {
     catsArray.includes("Salem") ? catAnswer2 = "Salem" : catAnswer2 = "Undefined"
     console.log("Opgave 4b", catAnswer2)
 
-    const newArray = numbersArray.map((elm) => elm * 3)
-    console.log("Opgave 5", newArray)
+    const newNumbersArray = numbersArray.map((elm) => elm * 3)
+    console.log("Opgave 5", newNumbersArray)
 
     console.log("Opgave 6", dogsArray.join("").toString())
 
     console.log("Opgave 7a", "mango =", fruitsArray.indexOf("Mango"))
     console.log("Opgave 7b", "blåbær =", fruitsArray.indexOf("Blåbær"))
+
+    dogsArray.splice(dogsArray.indexOf("Polly"), 1)
+    console.log("Opgave 8", dogsArray)
 })
